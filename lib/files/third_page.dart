@@ -88,7 +88,7 @@ class _ThirdPageState extends State<ThirdPage> {
                 onPressed: () {
                  launchUrl(url);
                 },
-                child: Text('show time')),
+                child: Text('lauch url')),
           ],
         ),
       ),
